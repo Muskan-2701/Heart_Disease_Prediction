@@ -8,14 +8,13 @@ The goal is to assist in early detection and risk assessment using data-driven m
 ---
 
 ### Features
-- Exploratory Data Analysis (EDA)
-- Data Preprocessing & Feature Scaling
-- Machine Learning Models:
-  - Logistic Regression
-  - Random Forest Classifier
-- Model Evaluation (Accuracy, ROC Curve)
-- Web App Deployment using Streamlit
-- Real-time Prediction System
+- Exploratory Data Analysis (EDA) with insightful visualizations  
+- Data preprocessing and feature scaling  
+- Model building using:
+  - Logistic Regression  
+  - Random Forest Classifier  
+- Model evaluation (Accuracy, Precision, Recall, F1-Score, ROC Curve)
+- Deployed web application for real-time prediction using Streamlit
 
 ---
 
